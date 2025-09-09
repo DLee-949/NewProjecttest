@@ -66,12 +66,6 @@
     <Compile Include="Quanhdam.Designer.cs">
       <DependentUpon>Quanhdam.cs</DependentUpon>
     </Compile>
-    <Compile Include="YUH.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="YUH.Designer.cs">
-      <DependentUpon>YUH.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -89,9 +83,6 @@
     </Compile>
     <EmbeddedResource Include="Quanhdam.resx">
       <DependentUpon>Quanhdam.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="YUH.resx">
-      <DependentUpon>YUH.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
